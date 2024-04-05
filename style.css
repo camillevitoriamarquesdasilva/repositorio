@@ -6,7 +6,7 @@
 }
 
 .cabecalho {
-background-color:#E97979;
+background-color:#08a9be;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -50,7 +50,7 @@ max-width: 20%;}
 .acai{font-size: 24px;}
 
 footer {
-    background-color: #E97979;
+    background-color: #08a9be;
     color: #fff;
     text-align: center;
     padding: 20px;
